@@ -1,0 +1,3 @@
+Date,Index,Close,Change_Pct,Open,High,Low,Sentiment,Recommendation,Confidence,Notes
+2026-05-08,Nikkei 225,62713.65,-0.19,62654.01,62724.36,62137.95,やや強気,Buy on Dip,8,帮史最高値更新後の小幅調整。長期強気続続。AIセミブーム等。
+2026-05-08,TOPIX,3829.48,-0.29,,,,,中立,Hold,6,日経と連動した小幅下落
